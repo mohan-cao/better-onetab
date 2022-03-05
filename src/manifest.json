@@ -50,6 +50,9 @@
       "32": "assets/icons/icon_128.png"
     }
   },
+  "chrome_url_overrides": {
+    "newtab": "index.html#/app/list"
+  },
   "permissions": [
     "contextMenus",
     "storage",
